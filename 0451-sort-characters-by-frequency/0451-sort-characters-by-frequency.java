@@ -11,13 +11,13 @@ class Pair{
 }
 class Solution {
     public String frequencySort(String s) {
-        HashMap<Character,Integer> freq = new HashMap<>();
+        Map<Character,Integer> freq = new HashMap<>();
         for(char ch:s.toCharArray())
         {
             freq.put(ch,freq.getOrDefault(ch,0)+1);
         }
 
-        PriorityQueue<Pair> pq = new PriorityQueue<>((a,b)->{
+        Queue<Pair> pq = new PriorityQueue<>((a,b)->{
             return b.getId()-a.getId();
         });
 
