@@ -9,7 +9,9 @@ class Solution {
             Arrays.sort(bh);
             String pb = new String(ch);
             String cb = new String(bh);
-            if(!pb.equals(cb))  answer.add(words[i]);
+            if(!pb.equals(cb)){
+                answer.add(words[i]);
+            }
         }
         return answer;
     }
