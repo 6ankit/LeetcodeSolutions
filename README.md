@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2810-faulty-keyboard](https://github.com/6ankit/LeetcodeSolutions/tree/master/2810-faulty-keyboard) |
+## Array
+|  |
+| ------- |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/6ankit/LeetcodeSolutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 <!---LeetCode Topics End-->
