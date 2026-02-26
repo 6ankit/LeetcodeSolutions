@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/6ankit/LeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/6ankit/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0925-long-pressed-name](https://github.com/6ankit/LeetcodeSolutions/tree/master/0925-long-pressed-name) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/6ankit/LeetcodeSolutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/6ankit/LeetcodeSolutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/6ankit/LeetcodeSolutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/6ankit/LeetcodeSolutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2595-number-of-even-and-odd-bits](https://github.com/6ankit/LeetcodeSolutions/tree/master/2595-number-of-even-and-odd-bits) |
+## Sliding Window
+|  |
+| ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/6ankit/LeetcodeSolutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
