@@ -91,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/6ankit/LeetcodeSolutions/tree/master/0392-is-subsequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2595-number-of-even-and-odd-bits](https://github.com/6ankit/LeetcodeSolutions/tree/master/2595-number-of-even-and-odd-bits) |
 <!---LeetCode Topics End-->
