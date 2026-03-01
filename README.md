@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/6ankit/LeetcodeSolutions/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/6ankit/LeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/6ankit/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [0481-magical-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/0481-magical-string) |
 | [0925-long-pressed-name](https://github.com/6ankit/LeetcodeSolutions/tree/master/0925-long-pressed-name) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/6ankit/LeetcodeSolutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1507-reformat-date](https://github.com/6ankit/LeetcodeSolutions/tree/master/1507-reformat-date) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/6ankit/LeetcodeSolutions/tree/master/0392-is-subsequence) |
+| [0481-magical-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/0481-magical-string) |
 | [0925-long-pressed-name](https://github.com/6ankit/LeetcodeSolutions/tree/master/0925-long-pressed-name) |
 ## Enumeration
 |  |
