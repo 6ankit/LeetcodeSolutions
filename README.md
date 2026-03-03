@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/6ankit/LeetcodeSolutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/6ankit/LeetcodeSolutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/6ankit/LeetcodeSolutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/6ankit/LeetcodeSolutions/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/6ankit/LeetcodeSolutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
