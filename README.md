@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/6ankit/LeetcodeSolutions/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/6ankit/LeetcodeSolutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/6ankit/LeetcodeSolutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/6ankit/LeetcodeSolutions/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1980-find-unique-binary-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/1980-find-unique-binary-string) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/6ankit/LeetcodeSolutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/6ankit/LeetcodeSolutions/tree/master/2085-count-common-words-with-one-occurrence) |
