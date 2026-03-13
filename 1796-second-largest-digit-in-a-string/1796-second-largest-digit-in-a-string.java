@@ -11,7 +11,6 @@ class Solution {
             }
             else {
                 int temp = ch[i]-'0';
-                System.out.println(ch[i]);
                 if(temp>firstMax){
                     secondMax=firstMax;
                     firstMax=temp;
