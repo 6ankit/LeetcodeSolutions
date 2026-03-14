@@ -46,7 +46,6 @@ class Solution {
     public String getHappyString(int n, int k) {
         happyStrings = new ArrayList<>();
         generateAllHappyStrings(new StringBuilder(), n);
-        Collections.sort(happyStrings);
         if (k <= happyStrings.size()) {
             return happyStrings.get(k - 1);
         }
