@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/6ankit/LeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/6ankit/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0481-magical-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/0481-magical-string) |
+| [0535-encode-and-decode-tinyurl](https://github.com/6ankit/LeetcodeSolutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0791-custom-sort-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/0791-custom-sort-string) |
 | [0925-long-pressed-name](https://github.com/6ankit/LeetcodeSolutions/tree/master/0925-long-pressed-name) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/6ankit/LeetcodeSolutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/6ankit/LeetcodeSolutions/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/6ankit/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [0535-encode-and-decode-tinyurl](https://github.com/6ankit/LeetcodeSolutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0791-custom-sort-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/0791-custom-sort-string) |
 | [1331-rank-transform-of-an-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1640-check-array-formation-through-concatenation](https://github.com/6ankit/LeetcodeSolutions/tree/master/1640-check-array-formation-through-concatenation) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/6ankit/LeetcodeSolutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
 |  |
@@ -186,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/6ankit/LeetcodeSolutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/1980-find-unique-binary-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/6ankit/LeetcodeSolutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Design
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/6ankit/LeetcodeSolutions/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
