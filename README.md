@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0216-combination-sum-iii](https://github.com/6ankit/LeetcodeSolutions/tree/master/0216-combination-sum-iii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/6ankit/LeetcodeSolutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1331-rank-transform-of-an-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/6ankit/LeetcodeSolutions/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0216-combination-sum-iii](https://github.com/6ankit/LeetcodeSolutions/tree/master/0216-combination-sum-iii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/6ankit/LeetcodeSolutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/1980-find-unique-binary-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/6ankit/LeetcodeSolutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
