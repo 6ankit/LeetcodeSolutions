@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/0791-custom-sort-string) |
 | [0925-long-pressed-name](https://github.com/6ankit/LeetcodeSolutions/tree/master/0925-long-pressed-name) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/6ankit/LeetcodeSolutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1286-iterator-for-combination](https://github.com/6ankit/LeetcodeSolutions/tree/master/1286-iterator-for-combination) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/6ankit/LeetcodeSolutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/6ankit/LeetcodeSolutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1507-reformat-date](https://github.com/6ankit/LeetcodeSolutions/tree/master/1507-reformat-date) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0216-combination-sum-iii](https://github.com/6ankit/LeetcodeSolutions/tree/master/0216-combination-sum-iii) |
+| [1286-iterator-for-combination](https://github.com/6ankit/LeetcodeSolutions/tree/master/1286-iterator-for-combination) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/6ankit/LeetcodeSolutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/1980-find-unique-binary-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/6ankit/LeetcodeSolutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -195,4 +197,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/6ankit/LeetcodeSolutions/tree/master/0535-encode-and-decode-tinyurl) |
+| [1286-iterator-for-combination](https://github.com/6ankit/LeetcodeSolutions/tree/master/1286-iterator-for-combination) |
+## Iterator
+|  |
+| ------- |
+| [1286-iterator-for-combination](https://github.com/6ankit/LeetcodeSolutions/tree/master/1286-iterator-for-combination) |
 <!---LeetCode Topics End-->
