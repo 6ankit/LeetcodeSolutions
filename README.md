@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/6ankit/LeetcodeSolutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [3412-find-mirror-score-of-a-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/3412-find-mirror-score-of-a-string) |
 ## Counting
 |  |
@@ -177,10 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/6ankit/LeetcodeSolutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/6ankit/LeetcodeSolutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/6ankit/LeetcodeSolutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/6ankit/LeetcodeSolutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
