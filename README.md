@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/6ankit/LeetcodeSolutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3412-find-mirror-score-of-a-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/3412-find-mirror-score-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/6ankit/LeetcodeSolutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Simulation
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/6ankit/LeetcodeSolutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3412-find-mirror-score-of-a-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/3412-find-mirror-score-of-a-string) |
 | [3663-find-the-least-frequent-digit](https://github.com/6ankit/LeetcodeSolutions/tree/master/3663-find-the-least-frequent-digit) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/6ankit/LeetcodeSolutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Stack
 |  |
 | ------- |
