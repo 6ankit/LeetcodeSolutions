@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3033-modify-the-matrix](https://github.com/6ankit/LeetcodeSolutions/tree/master/3033-modify-the-matrix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3467-transform-array-by-parity](https://github.com/6ankit/LeetcodeSolutions/tree/master/3467-transform-array-by-parity) |
+| [3643-flip-square-submatrix-vertically](https://github.com/6ankit/LeetcodeSolutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3663-find-the-least-frequent-digit](https://github.com/6ankit/LeetcodeSolutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Hash Table
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/6ankit/LeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0481-magical-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/0481-magical-string) |
 | [0925-long-pressed-name](https://github.com/6ankit/LeetcodeSolutions/tree/master/0925-long-pressed-name) |
+| [3643-flip-square-submatrix-vertically](https://github.com/6ankit/LeetcodeSolutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Enumeration
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/6ankit/LeetcodeSolutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/6ankit/LeetcodeSolutions/tree/master/1672-richest-customer-wealth) |
 | [3033-modify-the-matrix](https://github.com/6ankit/LeetcodeSolutions/tree/master/3033-modify-the-matrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/6ankit/LeetcodeSolutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Tree
 |  |
 | ------- |
