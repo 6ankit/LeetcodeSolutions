@@ -32,16 +32,12 @@ class Solution {
         allPaths = new ArrayList<>();
         paths=new ArrayList<>();
         solve(root);
-        Map<Integer,Character> alphas=new HashMap<>();
-        String s="abcdefghijklmnopqrstuvwxyz";
-        for(int i=0;i<=25;i++){
-            alphas.put(i,s.charAt(i));
-        }
         PriorityQueue<String> pq=new PriorityQueue<>();
         for(int i=0;i<allPaths.size();i++){
             StringBuilder sp=new StringBuilder();
             for(int j=allPaths.get(i).size()-1;j>=0;j--){
-                sp.append(alphas.get(allPaths.get(i).get(j)));
+                int temp = 97+allPaths.get(i).get(j);
+                sp.append((char)temp);
             }
             pq.offer(sp.toString());
         }
