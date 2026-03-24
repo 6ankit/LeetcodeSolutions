@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/6ankit/LeetcodeSolutions/tree/master/0925-long-pressed-name) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/6ankit/LeetcodeSolutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/6ankit/LeetcodeSolutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/6ankit/LeetcodeSolutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1286-iterator-for-combination](https://github.com/6ankit/LeetcodeSolutions/tree/master/1286-iterator-for-combination) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/6ankit/LeetcodeSolutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/6ankit/LeetcodeSolutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/6ankit/LeetcodeSolutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2485-find-the-pivot-integer](https://github.com/6ankit/LeetcodeSolutions/tree/master/2485-find-the-pivot-integer) |
 | [3663-find-the-least-frequent-digit](https://github.com/6ankit/LeetcodeSolutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Prefix Sum
