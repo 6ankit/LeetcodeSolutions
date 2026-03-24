@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/6ankit/LeetcodeSolutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3412-find-mirror-score-of-a-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/3412-find-mirror-score-of-a-string) |
+| [3692-majority-frequency-characters](https://github.com/6ankit/LeetcodeSolutions/tree/master/3692-majority-frequency-characters) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/6ankit/LeetcodeSolutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Simulation
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/3046-split-the-array) |
 | [3412-find-mirror-score-of-a-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/3412-find-mirror-score-of-a-string) |
 | [3663-find-the-least-frequent-digit](https://github.com/6ankit/LeetcodeSolutions/tree/master/3663-find-the-least-frequent-digit) |
+| [3692-majority-frequency-characters](https://github.com/6ankit/LeetcodeSolutions/tree/master/3692-majority-frequency-characters) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/6ankit/LeetcodeSolutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Stack
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/3046-split-the-array) |
 | [3467-transform-array-by-parity](https://github.com/6ankit/LeetcodeSolutions/tree/master/3467-transform-array-by-parity) |
 | [3663-find-the-least-frequent-digit](https://github.com/6ankit/LeetcodeSolutions/tree/master/3663-find-the-least-frequent-digit) |
+| [3692-majority-frequency-characters](https://github.com/6ankit/LeetcodeSolutions/tree/master/3692-majority-frequency-characters) |
 ## Sorting
 |  |
 | ------- |
