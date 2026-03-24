@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/6ankit/LeetcodeSolutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3033-modify-the-matrix](https://github.com/6ankit/LeetcodeSolutions/tree/master/3033-modify-the-matrix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3046-split-the-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/3046-split-the-array) |
 | [3467-transform-array-by-parity](https://github.com/6ankit/LeetcodeSolutions/tree/master/3467-transform-array-by-parity) |
 | [3643-flip-square-submatrix-vertically](https://github.com/6ankit/LeetcodeSolutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3663-find-the-least-frequent-digit](https://github.com/6ankit/LeetcodeSolutions/tree/master/3663-find-the-least-frequent-digit) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/6ankit/LeetcodeSolutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2404-most-frequent-even-element](https://github.com/6ankit/LeetcodeSolutions/tree/master/2404-most-frequent-even-element) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/6ankit/LeetcodeSolutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [3046-split-the-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/3046-split-the-array) |
 | [3412-find-mirror-score-of-a-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/3412-find-mirror-score-of-a-string) |
 | [3663-find-the-least-frequent-digit](https://github.com/6ankit/LeetcodeSolutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/6ankit/LeetcodeSolutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/6ankit/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/6ankit/LeetcodeSolutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2404-most-frequent-even-element](https://github.com/6ankit/LeetcodeSolutions/tree/master/2404-most-frequent-even-element) |
+| [3046-split-the-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/3046-split-the-array) |
 | [3467-transform-array-by-parity](https://github.com/6ankit/LeetcodeSolutions/tree/master/3467-transform-array-by-parity) |
 | [3663-find-the-least-frequent-digit](https://github.com/6ankit/LeetcodeSolutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Sorting
