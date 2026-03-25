@@ -42,9 +42,9 @@ class Solution {
             }
             if(x.length()>0) emails[i]=x;
         }
-        Map<String,Integer> mp=new HashMap<>();
+        Set<String> mp=new HashSet<>();
         for(int i=0;i<emails.length;i++){
-            mp.put(emails[i],mp.getOrDefault(emails[i],0)+1);
+            mp.add(emails[i]);
         }
         return mp.size();
     }
