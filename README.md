@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/6ankit/LeetcodeSolutions/tree/master/0709-to-lower-case) |
 | [0791-custom-sort-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/0791-custom-sort-string) |
 | [0925-long-pressed-name](https://github.com/6ankit/LeetcodeSolutions/tree/master/0925-long-pressed-name) |
+| [0929-unique-email-addresses](https://github.com/6ankit/LeetcodeSolutions/tree/master/0929-unique-email-addresses) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/6ankit/LeetcodeSolutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/6ankit/LeetcodeSolutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/6ankit/LeetcodeSolutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/6ankit/LeetcodeSolutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0739-daily-temperatures](https://github.com/6ankit/LeetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/6ankit/LeetcodeSolutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0929-unique-email-addresses](https://github.com/6ankit/LeetcodeSolutions/tree/master/0929-unique-email-addresses) |
 | [1004-max-consecutive-ones-iii](https://github.com/6ankit/LeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/6ankit/LeetcodeSolutions/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/6ankit/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/6ankit/LeetcodeSolutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0791-custom-sort-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/0791-custom-sort-string) |
+| [0929-unique-email-addresses](https://github.com/6ankit/LeetcodeSolutions/tree/master/0929-unique-email-addresses) |
 | [1331-rank-transform-of-an-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1640-check-array-formation-through-concatenation](https://github.com/6ankit/LeetcodeSolutions/tree/master/1640-check-array-formation-through-concatenation) |
 | [1796-second-largest-digit-in-a-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/1796-second-largest-digit-in-a-string) |
