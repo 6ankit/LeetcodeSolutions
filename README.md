@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/6ankit/LeetcodeSolutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0929-unique-email-addresses](https://github.com/6ankit/LeetcodeSolutions/tree/master/0929-unique-email-addresses) |
 | [1004-max-consecutive-ones-iii](https://github.com/6ankit/LeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1029-two-city-scheduling](https://github.com/6ankit/LeetcodeSolutions/tree/master/1029-two-city-scheduling) |
 | [1331-rank-transform-of-an-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/6ankit/LeetcodeSolutions/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/6ankit/LeetcodeSolutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/6ankit/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0791-custom-sort-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/0791-custom-sort-string) |
+| [1029-two-city-scheduling](https://github.com/6ankit/LeetcodeSolutions/tree/master/1029-two-city-scheduling) |
 | [1331-rank-transform-of-an-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/6ankit/LeetcodeSolutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/6ankit/LeetcodeSolutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
@@ -252,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/6ankit/LeetcodeSolutions/tree/master/0739-daily-temperatures) |
+## Greedy
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/6ankit/LeetcodeSolutions/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
