@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/6ankit/LeetcodeSolutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2810-faulty-keyboard](https://github.com/6ankit/LeetcodeSolutions/tree/master/2810-faulty-keyboard) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/6ankit/LeetcodeSolutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3412-find-mirror-score-of-a-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/3412-find-mirror-score-of-a-string) |
 ## Array
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/6ankit/LeetcodeSolutions/tree/master/2404-most-frequent-even-element) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/6ankit/LeetcodeSolutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/6ankit/LeetcodeSolutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3033-modify-the-matrix](https://github.com/6ankit/LeetcodeSolutions/tree/master/3033-modify-the-matrix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3046-split-the-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/3046-split-the-array) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/6ankit/LeetcodeSolutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2485-find-the-pivot-integer](https://github.com/6ankit/LeetcodeSolutions/tree/master/2485-find-the-pivot-integer) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/6ankit/LeetcodeSolutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3663-find-the-least-frequent-digit](https://github.com/6ankit/LeetcodeSolutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Prefix Sum
 |  |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/6ankit/LeetcodeSolutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/6ankit/LeetcodeSolutions/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/6ankit/LeetcodeSolutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/6ankit/LeetcodeSolutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3033-modify-the-matrix](https://github.com/6ankit/LeetcodeSolutions/tree/master/3033-modify-the-matrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/6ankit/LeetcodeSolutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Tree
