@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0999-available-captures-for-rook](https://github.com/6ankit/LeetcodeSolutions/tree/master/0999-available-captures-for-rook) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2296-design-a-text-editor](https://github.com/6ankit/LeetcodeSolutions/tree/master/2296-design-a-text-editor) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/6ankit/LeetcodeSolutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/6ankit/LeetcodeSolutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/6ankit/LeetcodeSolutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0929-unique-email-addresses](https://github.com/6ankit/LeetcodeSolutions/tree/master/0929-unique-email-addresses) |
+| [0999-available-captures-for-rook](https://github.com/6ankit/LeetcodeSolutions/tree/master/0999-available-captures-for-rook) |
 | [1004-max-consecutive-ones-iii](https://github.com/6ankit/LeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1029-two-city-scheduling](https://github.com/6ankit/LeetcodeSolutions/tree/master/1029-two-city-scheduling) |
 | [1331-rank-transform-of-an-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0999-available-captures-for-rook](https://github.com/6ankit/LeetcodeSolutions/tree/master/0999-available-captures-for-rook) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/6ankit/LeetcodeSolutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/6ankit/LeetcodeSolutions/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/6ankit/LeetcodeSolutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
