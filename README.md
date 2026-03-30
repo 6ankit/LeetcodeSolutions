@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/6ankit/LeetcodeSolutions/tree/master/2810-faulty-keyboard) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3110-score-of-a-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/3110-score-of-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/6ankit/LeetcodeSolutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3412-find-mirror-score-of-a-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/3412-find-mirror-score-of-a-string) |
 | [3692-majority-frequency-characters](https://github.com/6ankit/LeetcodeSolutions/tree/master/3692-majority-frequency-characters) |
