@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/3110-score-of-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/6ankit/LeetcodeSolutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3412-find-mirror-score-of-a-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/3412-find-mirror-score-of-a-string) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3692-majority-frequency-characters](https://github.com/6ankit/LeetcodeSolutions/tree/master/3692-majority-frequency-characters) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/6ankit/LeetcodeSolutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Simulation
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3046-split-the-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/3046-split-the-array) |
 | [3412-find-mirror-score-of-a-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/3412-find-mirror-score-of-a-string) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/6ankit/LeetcodeSolutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3692-majority-frequency-characters](https://github.com/6ankit/LeetcodeSolutions/tree/master/3692-majority-frequency-characters) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/6ankit/LeetcodeSolutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/6ankit/LeetcodeSolutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2404-most-frequent-even-element](https://github.com/6ankit/LeetcodeSolutions/tree/master/2404-most-frequent-even-element) |
 | [3046-split-the-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/3046-split-the-array) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3467-transform-array-by-parity](https://github.com/6ankit/LeetcodeSolutions/tree/master/3467-transform-array-by-parity) |
 | [3663-find-the-least-frequent-digit](https://github.com/6ankit/LeetcodeSolutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3692-majority-frequency-characters](https://github.com/6ankit/LeetcodeSolutions/tree/master/3692-majority-frequency-characters) |
