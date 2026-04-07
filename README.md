@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/6ankit/LeetcodeSolutions/tree/master/0999-available-captures-for-rook) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/6ankit/LeetcodeSolutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2069-walking-robot-simulation-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/6ankit/LeetcodeSolutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2296-design-a-text-editor](https://github.com/6ankit/LeetcodeSolutions/tree/master/2296-design-a-text-editor) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/6ankit/LeetcodeSolutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/6ankit/LeetcodeSolutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [1286-iterator-for-combination](https://github.com/6ankit/LeetcodeSolutions/tree/master/1286-iterator-for-combination) |
+| [2069-walking-robot-simulation-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2296-design-a-text-editor](https://github.com/6ankit/LeetcodeSolutions/tree/master/2296-design-a-text-editor) |
 ## Iterator
 |  |
