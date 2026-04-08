@@ -7,9 +7,6 @@ class Solution {
             idx+=queries[i][2];
         }
       }  
-      for(int i=0;i<nums.length;i++){
-        System.out.print(nums[i]+" ");
-      }
       if(nums.length==1) return nums[0];
       int ans =nums[0];
       for(int i=1;i<nums.length;i++){
