@@ -63,11 +63,8 @@ class Spreadsheet {
       else {
         secondValue=Integer.parseInt(z);
       }
-      if(operation=='+'){
-        return firstValue+secondValue;
-      }else if(operation=='-') return firstValue-secondValue;
-      else if(operation=='*') return firstValue*secondValue;
-      return firstValue/secondValue;
+    
+     return firstValue+secondValue;
     }
 }
 
