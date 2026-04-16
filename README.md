@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-find-mirror-score-of-a-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/3412-find-mirror-score-of-a-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3484-design-spreadsheet](https://github.com/6ankit/LeetcodeSolutions/tree/master/3484-design-spreadsheet) |
+| [3498-reverse-degree-of-a-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3692-majority-frequency-characters](https://github.com/6ankit/LeetcodeSolutions/tree/master/3692-majority-frequency-characters) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/6ankit/LeetcodeSolutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Simulation
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/6ankit/LeetcodeSolutions/tree/master/2810-faulty-keyboard) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/6ankit/LeetcodeSolutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3412-find-mirror-score-of-a-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/3412-find-mirror-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Array
 |  |
