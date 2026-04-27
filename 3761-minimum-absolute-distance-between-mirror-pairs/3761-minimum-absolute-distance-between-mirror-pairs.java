@@ -55,9 +55,6 @@ class Solution {
                 }
             }
         }
-        // 11 
-        if (answer == Integer.MAX_VALUE)
-            return -1;
-        return answer;
+        return answer == Integer.MAX_VALUE ? -1 : answer;
     }
 }
