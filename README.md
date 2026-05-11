@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/6ankit/LeetcodeSolutions/tree/master/1109-corporate-flight-bookings) |
 | [1306-jump-game-iii](https://github.com/6ankit/LeetcodeSolutions/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/6ankit/LeetcodeSolutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/6ankit/LeetcodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/6ankit/LeetcodeSolutions/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/6ankit/LeetcodeSolutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/6ankit/LeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/6ankit/LeetcodeSolutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/6ankit/LeetcodeSolutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/6ankit/LeetcodeSolutions/tree/master/1652-defuse-the-bomb) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/2799-count-complete-subarrays-in-an-array) |
