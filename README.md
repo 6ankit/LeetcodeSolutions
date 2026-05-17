@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/6ankit/LeetcodeSolutions/tree/master/0205-isomorphic-strings) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/6ankit/LeetcodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/6ankit/LeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/6ankit/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0481-magical-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/0481-magical-string) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/6ankit/LeetcodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/6ankit/LeetcodeSolutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0669-trim-a-binary-search-tree](https://github.com/6ankit/LeetcodeSolutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/6ankit/LeetcodeSolutions/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/6ankit/LeetcodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/6ankit/LeetcodeSolutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0669-trim-a-binary-search-tree](https://github.com/6ankit/LeetcodeSolutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/6ankit/LeetcodeSolutions/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/6ankit/LeetcodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/6ankit/LeetcodeSolutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/6ankit/LeetcodeSolutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/6ankit/LeetcodeSolutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -373,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/6ankit/LeetcodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0535-encode-and-decode-tinyurl](https://github.com/6ankit/LeetcodeSolutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [1286-iterator-for-combination](https://github.com/6ankit/LeetcodeSolutions/tree/master/1286-iterator-for-combination) |
 | [2069-walking-robot-simulation-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/2069-walking-robot-simulation-ii) |
@@ -413,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/6ankit/LeetcodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1306-jump-game-iii](https://github.com/6ankit/LeetcodeSolutions/tree/master/1306-jump-game-iii) |
 ## Binary Search Tree
 |  |
