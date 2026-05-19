@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/6ankit/LeetcodeSolutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2404-most-frequent-even-element](https://github.com/6ankit/LeetcodeSolutions/tree/master/2404-most-frequent-even-element) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/6ankit/LeetcodeSolutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/6ankit/LeetcodeSolutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2784-check-if-array-is-good](https://github.com/6ankit/LeetcodeSolutions/tree/master/2784-check-if-array-is-good) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/6ankit/LeetcodeSolutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2404-most-frequent-even-element](https://github.com/6ankit/LeetcodeSolutions/tree/master/2404-most-frequent-even-element) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/6ankit/LeetcodeSolutions/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [2540-minimum-common-value](https://github.com/6ankit/LeetcodeSolutions/tree/master/2540-minimum-common-value) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/6ankit/LeetcodeSolutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2784-check-if-array-is-good](https://github.com/6ankit/LeetcodeSolutions/tree/master/2784-check-if-array-is-good) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/6ankit/LeetcodeSolutions/tree/master/0925-long-pressed-name) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/6ankit/LeetcodeSolutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/6ankit/LeetcodeSolutions/tree/master/1861-rotating-the-box) |
+| [2540-minimum-common-value](https://github.com/6ankit/LeetcodeSolutions/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/6ankit/LeetcodeSolutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3794-reverse-string-prefix](https://github.com/6ankit/LeetcodeSolutions/tree/master/3794-reverse-string-prefix) |
 ## Enumeration
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/6ankit/LeetcodeSolutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/6ankit/LeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/6ankit/LeetcodeSolutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/6ankit/LeetcodeSolutions/tree/master/2540-minimum-common-value) |
 ## Matrix
 |  |
 | ------- |
