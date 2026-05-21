@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/6ankit/LeetcodeSolutions/tree/master/2810-faulty-keyboard) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/6ankit/LeetcodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3110-score-of-a-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/3110-score-of-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/6ankit/LeetcodeSolutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3412-find-mirror-score-of-a-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/3412-find-mirror-score-of-a-string) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/6ankit/LeetcodeSolutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3033-modify-the-matrix](https://github.com/6ankit/LeetcodeSolutions/tree/master/3033-modify-the-matrix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/6ankit/LeetcodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3046-split-the-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/3046-split-the-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/6ankit/LeetcodeSolutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/6ankit/LeetcodeSolutions/tree/master/2784-check-if-array-is-good) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/6ankit/LeetcodeSolutions/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/6ankit/LeetcodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3046-split-the-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/3046-split-the-array) |
 | [3412-find-mirror-score-of-a-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/3412-find-mirror-score-of-a-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/6ankit/LeetcodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Rolling Hash
 |  |
 | ------- |
