@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/6ankit/LeetcodeSolutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0929-unique-email-addresses](https://github.com/6ankit/LeetcodeSolutions/tree/master/0929-unique-email-addresses) |
 | [1331-rank-transform-of-an-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
+| [1600-throne-inheritance](https://github.com/6ankit/LeetcodeSolutions/tree/master/1600-throne-inheritance) |
 | [1640-check-array-formation-through-concatenation](https://github.com/6ankit/LeetcodeSolutions/tree/master/1640-check-array-formation-through-concatenation) |
 | [1796-second-largest-digit-in-a-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1980-find-unique-binary-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/1980-find-unique-binary-string) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/6ankit/LeetcodeSolutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/6ankit/LeetcodeSolutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/6ankit/LeetcodeSolutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1600-throne-inheritance](https://github.com/6ankit/LeetcodeSolutions/tree/master/1600-throne-inheritance) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/6ankit/LeetcodeSolutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/6ankit/LeetcodeSolutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1306-jump-game-iii](https://github.com/6ankit/LeetcodeSolutions/tree/master/1306-jump-game-iii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/6ankit/LeetcodeSolutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1600-throne-inheritance](https://github.com/6ankit/LeetcodeSolutions/tree/master/1600-throne-inheritance) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/6ankit/LeetcodeSolutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/6ankit/LeetcodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0535-encode-and-decode-tinyurl](https://github.com/6ankit/LeetcodeSolutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [1286-iterator-for-combination](https://github.com/6ankit/LeetcodeSolutions/tree/master/1286-iterator-for-combination) |
+| [1600-throne-inheritance](https://github.com/6ankit/LeetcodeSolutions/tree/master/1600-throne-inheritance) |
 | [2069-walking-robot-simulation-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2296-design-a-text-editor](https://github.com/6ankit/LeetcodeSolutions/tree/master/2296-design-a-text-editor) |
 | [3484-design-spreadsheet](https://github.com/6ankit/LeetcodeSolutions/tree/master/3484-design-spreadsheet) |
