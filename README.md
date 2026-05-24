@@ -465,4 +465,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0596-classes-with-at-least-5-students](https://github.com/6ankit/LeetcodeSolutions/tree/master/0596-classes-with-at-least-5-students) |
+| [1084-sales-analysis-iii](https://github.com/6ankit/LeetcodeSolutions/tree/master/1084-sales-analysis-iii) |
 <!---LeetCode Topics End-->
