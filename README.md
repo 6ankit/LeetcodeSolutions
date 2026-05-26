@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/6ankit/LeetcodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3110-score-of-a-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/3110-score-of-a-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/6ankit/LeetcodeSolutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3412-find-mirror-score-of-a-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/3412-find-mirror-score-of-a-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/6ankit/LeetcodeSolutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/6ankit/LeetcodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3046-split-the-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/3046-split-the-array) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3412-find-mirror-score-of-a-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/3412-find-mirror-score-of-a-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3484-design-spreadsheet](https://github.com/6ankit/LeetcodeSolutions/tree/master/3484-design-spreadsheet) |
