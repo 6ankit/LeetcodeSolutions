@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0596-classes-with-at-least-5-students](https://github.com/6ankit/LeetcodeSolutions/tree/master/0596-classes-with-at-least-5-students) |
 | [1084-sales-analysis-iii](https://github.com/6ankit/LeetcodeSolutions/tree/master/1084-sales-analysis-iii) |
+| [1407-top-travellers](https://github.com/6ankit/LeetcodeSolutions/tree/master/1407-top-travellers) |
 | [3570-find-books-with-no-available-copies](https://github.com/6ankit/LeetcodeSolutions/tree/master/3570-find-books-with-no-available-copies) |
 ## Quickselect
 |  |
