@@ -20,7 +20,6 @@ class Solution {
         while (it.hasNext()) {
             Map.Entry<Character, Integer> m = it.next();
             int val = m.getValue();
-            System.out.println(val);
             while (val > 0) {
                 ans.append(m.getKey());
                 val -= 1;
