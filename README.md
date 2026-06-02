@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3467-transform-array-by-parity](https://github.com/6ankit/LeetcodeSolutions/tree/master/3467-transform-array-by-parity) |
 | [3484-design-spreadsheet](https://github.com/6ankit/LeetcodeSolutions/tree/master/3484-design-spreadsheet) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/6ankit/LeetcodeSolutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/6ankit/LeetcodeSolutions/tree/master/3663-find-the-least-frequent-digit) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/6ankit/LeetcodeSolutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2784-check-if-array-is-good](https://github.com/6ankit/LeetcodeSolutions/tree/master/2784-check-if-array-is-good) |
 | [3467-transform-array-by-parity](https://github.com/6ankit/LeetcodeSolutions/tree/master/3467-transform-array-by-parity) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/6ankit/LeetcodeSolutions/tree/master/1861-rotating-the-box) |
 | [2540-minimum-common-value](https://github.com/6ankit/LeetcodeSolutions/tree/master/2540-minimum-common-value) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/6ankit/LeetcodeSolutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3794-reverse-string-prefix](https://github.com/6ankit/LeetcodeSolutions/tree/master/3794-reverse-string-prefix) |
 ## Enumeration
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/6ankit/LeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/6ankit/LeetcodeSolutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/6ankit/LeetcodeSolutions/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
 |  |
 | ------- |
@@ -449,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1029-two-city-scheduling](https://github.com/6ankit/LeetcodeSolutions/tree/master/1029-two-city-scheduling) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/6ankit/LeetcodeSolutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Linked List
 |  |
 | ------- |
