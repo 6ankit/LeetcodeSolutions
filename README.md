@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/6ankit/LeetcodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/6ankit/LeetcodeSolutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/6ankit/LeetcodeSolutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2404-most-frequent-even-element](https://github.com/6ankit/LeetcodeSolutions/tree/master/2404-most-frequent-even-element) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/6ankit/LeetcodeSolutions/tree/master/2540-minimum-common-value) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/6ankit/LeetcodeSolutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/6ankit/LeetcodeSolutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/6ankit/LeetcodeSolutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2404-most-frequent-even-element](https://github.com/6ankit/LeetcodeSolutions/tree/master/2404-most-frequent-even-element) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/6ankit/LeetcodeSolutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2540-minimum-common-value](https://github.com/6ankit/LeetcodeSolutions/tree/master/2540-minimum-common-value) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/6ankit/LeetcodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/6ankit/LeetcodeSolutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/6ankit/LeetcodeSolutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2404-most-frequent-even-element](https://github.com/6ankit/LeetcodeSolutions/tree/master/2404-most-frequent-even-element) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/6ankit/LeetcodeSolutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3046-split-the-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/3046-split-the-array) |
