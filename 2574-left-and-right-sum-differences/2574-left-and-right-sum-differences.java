@@ -3,8 +3,6 @@ class Solution {
         int n = nums.length;
         int[] rightSum = new int[n];
         int[] leftSum = new int[n];
-        
-        //10-4-8-3
         int j=1;
        
         for(int i=n-2;i>-1;i--)
@@ -14,12 +12,11 @@ class Solution {
             j+=1;
         }
         
-        int[] ans= new int[n];
         
         for(int i=0;i<n;i++)
         {
-            ans[i]=Math.abs(leftSum[i]-rightSum[i]);
+            nums[i]=Math.abs(leftSum[i]-rightSum[i]);
         }
-        return ans;
+        return nums;
     }
 }
