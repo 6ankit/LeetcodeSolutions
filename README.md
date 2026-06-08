@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/6ankit/LeetcodeSolutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2069-walking-robot-simulation-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/6ankit/LeetcodeSolutions/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/6ankit/LeetcodeSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2296-design-a-text-editor](https://github.com/6ankit/LeetcodeSolutions/tree/master/2296-design-a-text-editor) |
 | [2553-separate-the-digits-in-an-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/6ankit/LeetcodeSolutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/6ankit/LeetcodeSolutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/6ankit/LeetcodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/6ankit/LeetcodeSolutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/6ankit/LeetcodeSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/6ankit/LeetcodeSolutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/6ankit/LeetcodeSolutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/6ankit/LeetcodeSolutions/tree/master/0925-long-pressed-name) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/6ankit/LeetcodeSolutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/6ankit/LeetcodeSolutions/tree/master/1861-rotating-the-box) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/6ankit/LeetcodeSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/6ankit/LeetcodeSolutions/tree/master/2540-minimum-common-value) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
