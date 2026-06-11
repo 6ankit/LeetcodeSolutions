@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/6ankit/LeetcodeSolutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/6ankit/LeetcodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2235-add-two-integers](https://github.com/6ankit/LeetcodeSolutions/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/6ankit/LeetcodeSolutions/tree/master/2413-smallest-even-multiple) |
 | [2485-find-the-pivot-integer](https://github.com/6ankit/LeetcodeSolutions/tree/master/2485-find-the-pivot-integer) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/6ankit/LeetcodeSolutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/6ankit/LeetcodeSolutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -525,4 +526,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/6ankit/LeetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/6ankit/LeetcodeSolutions/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
