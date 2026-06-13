@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/6ankit/LeetcodeSolutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/6ankit/LeetcodeSolutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/6ankit/LeetcodeSolutions/tree/master/3794-reverse-string-prefix) |
+| [3838-weighted-word-mapping](https://github.com/6ankit/LeetcodeSolutions/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3701-compute-alternating-sum](https://github.com/6ankit/LeetcodeSolutions/tree/master/3701-compute-alternating-sum) |
+| [3838-weighted-word-mapping](https://github.com/6ankit/LeetcodeSolutions/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/6ankit/LeetcodeSolutions/tree/master/3701-compute-alternating-sum) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/6ankit/LeetcodeSolutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3838-weighted-word-mapping](https://github.com/6ankit/LeetcodeSolutions/tree/master/3838-weighted-word-mapping) |
 | [3903-smallest-stable-index-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
