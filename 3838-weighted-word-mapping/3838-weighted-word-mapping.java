@@ -4,7 +4,6 @@ class Solution {
         char[] reverse = new char[26];
         String p="abcdefghijklmnopqrstuvwxyz";
         for(int i=p.length()-1;i>=0;i--){
-            System.out.print(i+" ");
             reverse[26-(i+1)]=p.charAt(i);
         }
         String ans ="";
