@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/6ankit/LeetcodeSolutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0739-daily-temperatures](https://github.com/6ankit/LeetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/6ankit/LeetcodeSolutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/6ankit/LeetcodeSolutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2296-design-a-text-editor](https://github.com/6ankit/LeetcodeSolutions/tree/master/2296-design-a-text-editor) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/6ankit/LeetcodeSolutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3412-find-mirror-score-of-a-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/3412-find-mirror-score-of-a-string) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/6ankit/LeetcodeSolutions/tree/master/0925-long-pressed-name) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/6ankit/LeetcodeSolutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/6ankit/LeetcodeSolutions/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/6ankit/LeetcodeSolutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/6ankit/LeetcodeSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/6ankit/LeetcodeSolutions/tree/master/2540-minimum-common-value) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/6ankit/LeetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/6ankit/LeetcodeSolutions/tree/master/0061-rotate-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/6ankit/LeetcodeSolutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2296-design-a-text-editor](https://github.com/6ankit/LeetcodeSolutions/tree/master/2296-design-a-text-editor) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/6ankit/LeetcodeSolutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Doubly-Linked List
