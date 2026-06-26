@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/6ankit/LeetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/6ankit/LeetcodeSolutions/tree/master/0048-rotate-image) |
+| [0152-maximum-product-subarray](https://github.com/6ankit/LeetcodeSolutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0216-combination-sum-iii](https://github.com/6ankit/LeetcodeSolutions/tree/master/0216-combination-sum-iii) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/6ankit/LeetcodeSolutions/tree/master/0042-trapping-rain-water) |
+| [0152-maximum-product-subarray](https://github.com/6ankit/LeetcodeSolutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/6ankit/LeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/6ankit/LeetcodeSolutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
