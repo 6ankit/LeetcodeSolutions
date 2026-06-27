@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-maximum-substrings-with-distinct-start](https://github.com/6ankit/LeetcodeSolutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/6ankit/LeetcodeSolutions/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/6ankit/LeetcodeSolutions/tree/master/3838-weighted-word-mapping) |
+| [3839-number-of-prefix-connected-groups](https://github.com/6ankit/LeetcodeSolutions/tree/master/3839-number-of-prefix-connected-groups) |
 ## Simulation
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/6ankit/LeetcodeSolutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/6ankit/LeetcodeSolutions/tree/master/3838-weighted-word-mapping) |
+| [3839-number-of-prefix-connected-groups](https://github.com/6ankit/LeetcodeSolutions/tree/master/3839-number-of-prefix-connected-groups) |
 | [3903-smallest-stable-index-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/6ankit/LeetcodeSolutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/6ankit/LeetcodeSolutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3839-number-of-prefix-connected-groups](https://github.com/6ankit/LeetcodeSolutions/tree/master/3839-number-of-prefix-connected-groups) |
 ## Stack
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3692-majority-frequency-characters](https://github.com/6ankit/LeetcodeSolutions/tree/master/3692-majority-frequency-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/6ankit/LeetcodeSolutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3839-number-of-prefix-connected-groups](https://github.com/6ankit/LeetcodeSolutions/tree/master/3839-number-of-prefix-connected-groups) |
 ## Sorting
 |  |
 | ------- |
