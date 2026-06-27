@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/6ankit/LeetcodeSolutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/6ankit/LeetcodeSolutions/tree/master/3838-weighted-word-mapping) |
 | [3839-number-of-prefix-connected-groups](https://github.com/6ankit/LeetcodeSolutions/tree/master/3839-number-of-prefix-connected-groups) |
+| [3840-house-robber-v](https://github.com/6ankit/LeetcodeSolutions/tree/master/3840-house-robber-v) |
 | [3903-smallest-stable-index-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/6ankit/LeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/6ankit/LeetcodeSolutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3840-house-robber-v](https://github.com/6ankit/LeetcodeSolutions/tree/master/3840-house-robber-v) |
 ## Bit Manipulation
 |  |
 | ------- |
