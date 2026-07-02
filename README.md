@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/6ankit/LeetcodeSolutions/tree/master/0038-count-and-say) |
 | [0205-isomorphic-strings](https://github.com/6ankit/LeetcodeSolutions/tree/master/0205-isomorphic-strings) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/6ankit/LeetcodeSolutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/6ankit/LeetcodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
