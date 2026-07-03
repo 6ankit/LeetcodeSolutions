@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/6ankit/LeetcodeSolutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/6ankit/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0481-magical-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/0481-magical-string) |
+| [0500-keyboard-row](https://github.com/6ankit/LeetcodeSolutions/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/6ankit/LeetcodeSolutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/6ankit/LeetcodeSolutions/tree/master/0657-robot-return-to-origin) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/6ankit/LeetcodeSolutions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/6ankit/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0419-battleships-in-a-board](https://github.com/6ankit/LeetcodeSolutions/tree/master/0419-battleships-in-a-board) |
+| [0500-keyboard-row](https://github.com/6ankit/LeetcodeSolutions/tree/master/0500-keyboard-row) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/6ankit/LeetcodeSolutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0733-flood-fill](https://github.com/6ankit/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/6ankit/LeetcodeSolutions/tree/master/0739-daily-temperatures) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/6ankit/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/6ankit/LeetcodeSolutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/6ankit/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/6ankit/LeetcodeSolutions/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/6ankit/LeetcodeSolutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [0791-custom-sort-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/0791-custom-sort-string) |
