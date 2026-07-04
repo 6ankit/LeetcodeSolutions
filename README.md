@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/6ankit/LeetcodeSolutions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/6ankit/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0419-battleships-in-a-board](https://github.com/6ankit/LeetcodeSolutions/tree/master/0419-battleships-in-a-board) |
 | [0500-keyboard-row](https://github.com/6ankit/LeetcodeSolutions/tree/master/0500-keyboard-row) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/6ankit/LeetcodeSolutions/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/6ankit/LeetcodeSolutions/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/6ankit/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/6ankit/LeetcodeSolutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/6ankit/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/6ankit/LeetcodeSolutions/tree/master/0500-keyboard-row) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/6ankit/LeetcodeSolutions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/6ankit/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/6ankit/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/6ankit/LeetcodeSolutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0791-custom-sort-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/0791-custom-sort-string) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/6ankit/LeetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/6ankit/LeetcodeSolutions/tree/master/0061-rotate-list) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/6ankit/LeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0481-magical-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/0481-magical-string) |
 | [0567-permutation-in-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/0567-permutation-in-string) |
@@ -420,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/6ankit/LeetcodeSolutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/6ankit/LeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/6ankit/LeetcodeSolutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
