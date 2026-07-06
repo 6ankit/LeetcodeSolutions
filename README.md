@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/6ankit/LeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1029-two-city-scheduling](https://github.com/6ankit/LeetcodeSolutions/tree/master/1029-two-city-scheduling) |
 | [1109-corporate-flight-bookings](https://github.com/6ankit/LeetcodeSolutions/tree/master/1109-corporate-flight-bookings) |
+| [1288-remove-covered-intervals](https://github.com/6ankit/LeetcodeSolutions/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/6ankit/LeetcodeSolutions/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/6ankit/LeetcodeSolutions/tree/master/1340-jump-game-v) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/0791-custom-sort-string) |
 | [0922-sort-array-by-parity-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1029-two-city-scheduling](https://github.com/6ankit/LeetcodeSolutions/tree/master/1029-two-city-scheduling) |
+| [1288-remove-covered-intervals](https://github.com/6ankit/LeetcodeSolutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/6ankit/LeetcodeSolutions/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/6ankit/LeetcodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
