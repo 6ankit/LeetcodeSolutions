@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/6ankit/LeetcodeSolutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1600-throne-inheritance](https://github.com/6ankit/LeetcodeSolutions/tree/master/1600-throne-inheritance) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/6ankit/LeetcodeSolutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2685-count-the-number-of-complete-components](https://github.com/6ankit/LeetcodeSolutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/6ankit/LeetcodeSolutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0733-flood-fill](https://github.com/6ankit/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [1306-jump-game-iii](https://github.com/6ankit/LeetcodeSolutions/tree/master/1306-jump-game-iii) |
+| [2685-count-the-number-of-complete-components](https://github.com/6ankit/LeetcodeSolutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -603,4 +605,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/6ankit/LeetcodeSolutions/tree/master/2685-count-the-number-of-complete-components) |
+## Graph Theory
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/6ankit/LeetcodeSolutions/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
