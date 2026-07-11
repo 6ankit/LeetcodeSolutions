@@ -17,15 +17,6 @@ class Solution {
         arr.get(edge[0]).add(edge[1]);
         arr.get(edge[1]).add(edge[0]);
         }
-
-        for(int i=0;i<arr.size();i++){
-            // System.out.print(i+"->");
-            for(int j=0;j<arr.get(i).size();j++){
-                // System.out.print(arr.get(i).get(j)+" ");
-            }
-            System.out.println();
-        }
-
         boolean[] visited = new boolean[n];
 
         for(int f=0;f<n;f++){
@@ -71,7 +62,6 @@ class Solution {
                     }
                 }
                 if(flag==true){
-                    System.out.println(f);
                     answer+=1;
                 }
             }   
