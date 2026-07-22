@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/6ankit/LeetcodeSolutions/tree/master/0874-walking-robot-simulation) |
 | [0922-sort-array-by-parity-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0929-unique-email-addresses](https://github.com/6ankit/LeetcodeSolutions/tree/master/0929-unique-email-addresses) |
+| [0977-squares-of-a-sorted-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0999-available-captures-for-rook](https://github.com/6ankit/LeetcodeSolutions/tree/master/0999-available-captures-for-rook) |
 | [1004-max-consecutive-ones-iii](https://github.com/6ankit/LeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1029-two-city-scheduling](https://github.com/6ankit/LeetcodeSolutions/tree/master/1029-two-city-scheduling) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/6ankit/LeetcodeSolutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0791-custom-sort-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/0791-custom-sort-string) |
 | [0922-sort-array-by-parity-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/6ankit/LeetcodeSolutions/tree/master/1029-two-city-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/6ankit/LeetcodeSolutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [0922-sort-array-by-parity-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/6ankit/LeetcodeSolutions/tree/master/0925-long-pressed-name) |
+| [0977-squares-of-a-sorted-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/6ankit/LeetcodeSolutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/6ankit/LeetcodeSolutions/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/6ankit/LeetcodeSolutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
