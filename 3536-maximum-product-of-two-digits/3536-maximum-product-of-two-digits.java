@@ -6,7 +6,7 @@ class Solution {
 
         while(n>0){
             int rem = n%10;
-            if(rem>=firstMaxi){
+            if(rem>firstMaxi){
                 secondMaxi=firstMaxi;
                 firstMaxi=rem;
             }else if(rem>secondMaxi){
