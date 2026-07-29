@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/6ankit/LeetcodeSolutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1507-reformat-date](https://github.com/6ankit/LeetcodeSolutions/tree/master/1507-reformat-date) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1598-crawler-log-folder](https://github.com/6ankit/LeetcodeSolutions/tree/master/1598-crawler-log-folder) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/6ankit/LeetcodeSolutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/6ankit/LeetcodeSolutions/tree/master/1678-goal-parser-interpretation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/6ankit/LeetcodeSolutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/1470-shuffle-the-array) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/6ankit/LeetcodeSolutions/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/6ankit/LeetcodeSolutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1598-crawler-log-folder](https://github.com/6ankit/LeetcodeSolutions/tree/master/1598-crawler-log-folder) |
 | [1640-check-array-formation-through-concatenation](https://github.com/6ankit/LeetcodeSolutions/tree/master/1640-check-array-formation-through-concatenation) |
 | [1652-defuse-the-bomb](https://github.com/6ankit/LeetcodeSolutions/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/6ankit/LeetcodeSolutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/6ankit/LeetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/6ankit/LeetcodeSolutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/6ankit/LeetcodeSolutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1598-crawler-log-folder](https://github.com/6ankit/LeetcodeSolutions/tree/master/1598-crawler-log-folder) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/6ankit/LeetcodeSolutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2296-design-a-text-editor](https://github.com/6ankit/LeetcodeSolutions/tree/master/2296-design-a-text-editor) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/6ankit/LeetcodeSolutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
