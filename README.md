@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/6ankit/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0419-battleships-in-a-board](https://github.com/6ankit/LeetcodeSolutions/tree/master/0419-battleships-in-a-board) |
+| [0486-predict-the-winner](https://github.com/6ankit/LeetcodeSolutions/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/6ankit/LeetcodeSolutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/6ankit/LeetcodeSolutions/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/6ankit/LeetcodeSolutions/tree/master/0605-can-place-flowers) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/6ankit/LeetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/6ankit/LeetcodeSolutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/6ankit/LeetcodeSolutions/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/6ankit/LeetcodeSolutions/tree/master/0486-predict-the-winner) |
 | [1340-jump-game-v](https://github.com/6ankit/LeetcodeSolutions/tree/master/1340-jump-game-v) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/6ankit/LeetcodeSolutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/6ankit/LeetcodeSolutions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/6ankit/LeetcodeSolutions/tree/master/0048-rotate-image) |
 | [0371-sum-of-two-integers](https://github.com/6ankit/LeetcodeSolutions/tree/master/0371-sum-of-two-integers) |
+| [0486-predict-the-winner](https://github.com/6ankit/LeetcodeSolutions/tree/master/0486-predict-the-winner) |
 | [0728-self-dividing-numbers](https://github.com/6ankit/LeetcodeSolutions/tree/master/0728-self-dividing-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/6ankit/LeetcodeSolutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/6ankit/LeetcodeSolutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/6ankit/LeetcodeSolutions/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Binary Search
 |  |
@@ -649,4 +653,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/6ankit/LeetcodeSolutions/tree/master/2685-count-the-number-of-complete-components) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/6ankit/LeetcodeSolutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
