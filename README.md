@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/6ankit/LeetcodeSolutions/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/6ankit/LeetcodeSolutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1688-count-of-matches-in-tournament](https://github.com/6ankit/LeetcodeSolutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1914-cyclically-rotating-a-grid](https://github.com/6ankit/LeetcodeSolutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/6ankit/LeetcodeSolutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2069-walking-robot-simulation-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/2069-walking-robot-simulation-ii) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/6ankit/LeetcodeSolutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/6ankit/LeetcodeSolutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/6ankit/LeetcodeSolutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1688-count-of-matches-in-tournament](https://github.com/6ankit/LeetcodeSolutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/6ankit/LeetcodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2235-add-two-integers](https://github.com/6ankit/LeetcodeSolutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/6ankit/LeetcodeSolutions/tree/master/2413-smallest-even-multiple) |
