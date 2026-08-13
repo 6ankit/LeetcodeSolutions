@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/6ankit/LeetcodeSolutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3467-transform-array-by-parity](https://github.com/6ankit/LeetcodeSolutions/tree/master/3467-transform-array-by-parity) |
 | [3484-design-spreadsheet](https://github.com/6ankit/LeetcodeSolutions/tree/master/3484-design-spreadsheet) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/6ankit/LeetcodeSolutions/tree/master/3513-number-of-unique-xor-triplets-i) |
