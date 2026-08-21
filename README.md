@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/6ankit/LeetcodeSolutions/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/6ankit/LeetcodeSolutions/tree/master/0274-h-index) |
+| [0303-range-sum-query-immutable](https://github.com/6ankit/LeetcodeSolutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/6ankit/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0419-battleships-in-a-board](https://github.com/6ankit/LeetcodeSolutions/tree/master/0419-battleships-in-a-board) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/6ankit/LeetcodeSolutions/tree/master/0303-range-sum-query-immutable) |
 | [1004-max-consecutive-ones-iii](https://github.com/6ankit/LeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/6ankit/LeetcodeSolutions/tree/master/1109-corporate-flight-bookings) |
 | [2485-find-the-pivot-integer](https://github.com/6ankit/LeetcodeSolutions/tree/master/2485-find-the-pivot-integer) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/6ankit/LeetcodeSolutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/6ankit/LeetcodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/6ankit/LeetcodeSolutions/tree/master/0303-range-sum-query-immutable) |
 | [0449-serialize-and-deserialize-bst](https://github.com/6ankit/LeetcodeSolutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0535-encode-and-decode-tinyurl](https://github.com/6ankit/LeetcodeSolutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [1286-iterator-for-combination](https://github.com/6ankit/LeetcodeSolutions/tree/master/1286-iterator-for-combination) |
