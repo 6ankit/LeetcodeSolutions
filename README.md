@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/6ankit/LeetcodeSolutions/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/6ankit/LeetcodeSolutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/6ankit/LeetcodeSolutions/tree/master/0506-relative-ranks) |
+| [0575-distribute-candies](https://github.com/6ankit/LeetcodeSolutions/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/6ankit/LeetcodeSolutions/tree/master/0605-can-place-flowers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/6ankit/LeetcodeSolutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/6ankit/LeetcodeSolutions/tree/master/0682-baseball-game) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/6ankit/LeetcodeSolutions/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/6ankit/LeetcodeSolutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/6ankit/LeetcodeSolutions/tree/master/0575-distribute-candies) |
 | [0791-custom-sort-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/0791-custom-sort-string) |
 | [0874-walking-robot-simulation](https://github.com/6ankit/LeetcodeSolutions/tree/master/0874-walking-robot-simulation) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/6ankit/LeetcodeSolutions/tree/master/0884-uncommon-words-from-two-sentences) |
