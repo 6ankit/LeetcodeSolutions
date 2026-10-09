@@ -41,7 +41,7 @@ class Solution {
                 st.push('(');
                 i+=1;
             }
-            System.out.println(ans);
+            // System.out.println(ans);
         }
         if(st.size()>0){
             int k =st.size()*2;
