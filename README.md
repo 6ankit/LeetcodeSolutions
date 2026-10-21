@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/6ankit/LeetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/6ankit/LeetcodeSolutions/tree/master/0048-rotate-image) |
+| [0090-subsets-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/6ankit/LeetcodeSolutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/0090-subsets-ii) |
 | [0371-sum-of-two-integers](https://github.com/6ankit/LeetcodeSolutions/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/6ankit/LeetcodeSolutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/6ankit/LeetcodeSolutions/tree/master/0476-number-complement) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/6ankit/LeetcodeSolutions/tree/master/0216-combination-sum-iii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/6ankit/LeetcodeSolutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1286-iterator-for-combination](https://github.com/6ankit/LeetcodeSolutions/tree/master/1286-iterator-for-combination) |
