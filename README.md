@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2296-design-a-text-editor](https://github.com/6ankit/LeetcodeSolutions/tree/master/2296-design-a-text-editor) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/6ankit/LeetcodeSolutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2390-removing-stars-from-a-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/6ankit/LeetcodeSolutions/tree/master/2409-count-days-spent-together) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/6ankit/LeetcodeSolutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/6ankit/LeetcodeSolutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2810-faulty-keyboard](https://github.com/6ankit/LeetcodeSolutions/tree/master/2810-faulty-keyboard) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/6ankit/LeetcodeSolutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/6ankit/LeetcodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2235-add-two-integers](https://github.com/6ankit/LeetcodeSolutions/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/6ankit/LeetcodeSolutions/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/6ankit/LeetcodeSolutions/tree/master/2413-smallest-even-multiple) |
 | [2485-find-the-pivot-integer](https://github.com/6ankit/LeetcodeSolutions/tree/master/2485-find-the-pivot-integer) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/6ankit/LeetcodeSolutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
