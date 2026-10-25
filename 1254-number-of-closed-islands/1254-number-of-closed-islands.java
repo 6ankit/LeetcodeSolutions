@@ -5,10 +5,11 @@ class Solution {
         }
         if(grid[row][col]==7 || grid[row][col]==1) return true;
         if(grid[row][col]==0) grid[row][col]=7;
-       return dfs(row-1,col,val,grid) &
-        dfs(row,col+1,val,grid) &
-        dfs(row+1,col,val,grid)  &
-        dfs(row,col-1,val,grid);
+       boolean first = dfs(row-1,col,val,grid); 
+        boolean second =dfs(row,col+1,val,grid); 
+        boolean third =dfs(row+1,col,val,grid) ;
+        boolean fourth = dfs(row,col-1,val,grid);
+        return first && second && third && fourth;
     }
     public int closedIsland(int[][] grid) {
         
