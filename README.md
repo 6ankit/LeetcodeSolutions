@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/6ankit/LeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1029-two-city-scheduling](https://github.com/6ankit/LeetcodeSolutions/tree/master/1029-two-city-scheduling) |
 | [1109-corporate-flight-bookings](https://github.com/6ankit/LeetcodeSolutions/tree/master/1109-corporate-flight-bookings) |
+| [1254-number-of-closed-islands](https://github.com/6ankit/LeetcodeSolutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/6ankit/LeetcodeSolutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/6ankit/LeetcodeSolutions/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/6ankit/LeetcodeSolutions/tree/master/1306-jump-game-iii) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/6ankit/LeetcodeSolutions/tree/master/0419-battleships-in-a-board) |
 | [0733-flood-fill](https://github.com/6ankit/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0999-available-captures-for-rook](https://github.com/6ankit/LeetcodeSolutions/tree/master/0999-available-captures-for-rook) |
+| [1254-number-of-closed-islands](https://github.com/6ankit/LeetcodeSolutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/6ankit/LeetcodeSolutions/tree/master/1260-shift-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/6ankit/LeetcodeSolutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/6ankit/LeetcodeSolutions/tree/master/1672-richest-customer-wealth) |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/6ankit/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/6ankit/LeetcodeSolutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/6ankit/LeetcodeSolutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1254-number-of-closed-islands](https://github.com/6ankit/LeetcodeSolutions/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/6ankit/LeetcodeSolutions/tree/master/1306-jump-game-iii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/6ankit/LeetcodeSolutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1600-throne-inheritance](https://github.com/6ankit/LeetcodeSolutions/tree/master/1600-throne-inheritance) |
@@ -693,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/6ankit/LeetcodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/6ankit/LeetcodeSolutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0733-flood-fill](https://github.com/6ankit/LeetcodeSolutions/tree/master/0733-flood-fill) |
+| [1254-number-of-closed-islands](https://github.com/6ankit/LeetcodeSolutions/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/6ankit/LeetcodeSolutions/tree/master/1306-jump-game-iii) |
 | [2685-count-the-number-of-complete-components](https://github.com/6ankit/LeetcodeSolutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/6ankit/LeetcodeSolutions/tree/master/3310-remove-methods-from-project) |
@@ -730,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/6ankit/LeetcodeSolutions/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/6ankit/LeetcodeSolutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
