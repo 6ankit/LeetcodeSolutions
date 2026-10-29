@@ -604,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/6ankit/LeetcodeSolutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1600-throne-inheritance](https://github.com/6ankit/LeetcodeSolutions/tree/master/1600-throne-inheritance) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/6ankit/LeetcodeSolutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/6ankit/LeetcodeSolutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/6ankit/LeetcodeSolutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/6ankit/LeetcodeSolutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/6ankit/LeetcodeSolutions/tree/master/3310-remove-methods-from-project) |
@@ -704,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/6ankit/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [1254-number-of-closed-islands](https://github.com/6ankit/LeetcodeSolutions/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/6ankit/LeetcodeSolutions/tree/master/1306-jump-game-iii) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/6ankit/LeetcodeSolutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/6ankit/LeetcodeSolutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/6ankit/LeetcodeSolutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/6ankit/LeetcodeSolutions/tree/master/3310-remove-methods-from-project) |
@@ -743,12 +745,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/6ankit/LeetcodeSolutions/tree/master/1254-number-of-closed-islands) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/6ankit/LeetcodeSolutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/6ankit/LeetcodeSolutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/6ankit/LeetcodeSolutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/6ankit/LeetcodeSolutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/6ankit/LeetcodeSolutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/6ankit/LeetcodeSolutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/6ankit/LeetcodeSolutions/tree/master/3310-remove-methods-from-project) |
 ## Game Theory
