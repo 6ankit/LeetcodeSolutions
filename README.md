@@ -724,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-top-travellers](https://github.com/6ankit/LeetcodeSolutions/tree/master/1407-top-travellers) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/6ankit/LeetcodeSolutions/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1873-calculate-special-bonus](https://github.com/6ankit/LeetcodeSolutions/tree/master/1873-calculate-special-bonus) |
+| [3220-odd-and-even-transactions](https://github.com/6ankit/LeetcodeSolutions/tree/master/3220-odd-and-even-transactions) |
 | [3570-find-books-with-no-available-copies](https://github.com/6ankit/LeetcodeSolutions/tree/master/3570-find-books-with-no-available-copies) |
 ## Quickselect
 |  |
