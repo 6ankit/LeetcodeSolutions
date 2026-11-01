@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/6ankit/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0419-battleships-in-a-board](https://github.com/6ankit/LeetcodeSolutions/tree/master/0419-battleships-in-a-board) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/6ankit/LeetcodeSolutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/6ankit/LeetcodeSolutions/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/6ankit/LeetcodeSolutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/6ankit/LeetcodeSolutions/tree/master/0506-relative-ranks) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/6ankit/LeetcodeSolutions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/6ankit/LeetcodeSolutions/tree/master/0048-rotate-image) |
 | [0371-sum-of-two-integers](https://github.com/6ankit/LeetcodeSolutions/tree/master/0371-sum-of-two-integers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/6ankit/LeetcodeSolutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/6ankit/LeetcodeSolutions/tree/master/0486-predict-the-winner) |
 | [0728-self-dividing-numbers](https://github.com/6ankit/LeetcodeSolutions/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/6ankit/LeetcodeSolutions/tree/master/0836-rectangle-overlap) |
