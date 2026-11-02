@@ -723,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0184-department-highest-salary](https://github.com/6ankit/LeetcodeSolutions/tree/master/0184-department-highest-salary) |
 | [0596-classes-with-at-least-5-students](https://github.com/6ankit/LeetcodeSolutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0608-tree-node](https://github.com/6ankit/LeetcodeSolutions/tree/master/0608-tree-node) |
 | [1084-sales-analysis-iii](https://github.com/6ankit/LeetcodeSolutions/tree/master/1084-sales-analysis-iii) |
