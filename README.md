@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0419-battleships-in-a-board](https://github.com/6ankit/LeetcodeSolutions/tree/master/0419-battleships-in-a-board) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/6ankit/LeetcodeSolutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/6ankit/LeetcodeSolutions/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/6ankit/LeetcodeSolutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/6ankit/LeetcodeSolutions/tree/master/0506-relative-ranks) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/6ankit/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/6ankit/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/6ankit/LeetcodeSolutions/tree/master/0506-relative-ranks) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/6ankit/LeetcodeSolutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0791-custom-sort-string](https://github.com/6ankit/LeetcodeSolutions/tree/master/0791-custom-sort-string) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/6ankit/LeetcodeSolutions/tree/master/0048-rotate-image) |
 | [0371-sum-of-two-integers](https://github.com/6ankit/LeetcodeSolutions/tree/master/0371-sum-of-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/6ankit/LeetcodeSolutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/6ankit/LeetcodeSolutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/6ankit/LeetcodeSolutions/tree/master/0486-predict-the-winner) |
 | [0728-self-dividing-numbers](https://github.com/6ankit/LeetcodeSolutions/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/6ankit/LeetcodeSolutions/tree/master/0836-rectangle-overlap) |
